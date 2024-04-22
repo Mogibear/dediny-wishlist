@@ -10,10 +10,11 @@ dimwishlist:item=568611922&perks=3300816228,3643424744,3301904089,469285294
 //Succession :: Recombination, Reconstruction, Appended mag
 dimwishlist:item=3612338554&perks=469285294,1523832109,1087426260
 
-//Hammerhead :: Rewind Rounds, Killing Tally
-dimwishlist:item=1896309757&perks=2578928832,557221067
+//Hammerhead :: Smallbore, Flared Magwell, Rewind Rounds, Killing Tally
+dimwishlist:item=1896309757&perks=1482024992,3230963543,2578928832,557221067
 
-//Forbearance :: 
+//Forbearance :: quick launch, high velociy, ambitious assassin, chain reaction
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,2396489472
 
 //Midnight Coup :: Firefly/Explosive Payload, Kinetic Tremors/Frenzy
 dimwishlist:item=2763843898&perks=3824105627,3891536761
